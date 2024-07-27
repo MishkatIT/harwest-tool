@@ -6,7 +6,7 @@
 
 **Username:** [MishkatIT](https://atcoder.jp/users/MishkatIT)
 
-### 📊 Total Problems Solved: **123**
+### 📊 Total Problems Solved: **124**
 
 </div>
 
@@ -885,6 +885,13 @@
 <td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc367/abc367A%20Shout%20Everyday.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
 <td><code>AtCoder</code> <code>*150</code></td>
 <td align="center"><sub>Aug/17/2024 13:00</sub></td>
+</tr>
+<tr>
+<td align="center">124</td>
+<td><a href="https://atcoder.jp/contests/abc364/tasks/abc364_c"><b>C</b> - Minimum Glutton</a></td>
+<td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc364/abc364C%20Minimum%20Glutton.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
+<td><code>AtCoder</code> <code>*250</code></td>
+<td align="center"><sub>Jul/27/2024 12:22</sub></td>
 </tr>
 </tbody>
 </table>
