@@ -6,7 +6,7 @@
 
 **Username:** [MishkatIT](https://atcoder.jp/users/MishkatIT)
 
-### 📊 Total Problems Solved: **77**
+### 📊 Total Problems Solved: **78**
 
 </div>
 
@@ -563,6 +563,13 @@
 <td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc362/abc362A%20Buy%20a%20Pen.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
 <td><code>AtCoder</code> <code>*100</code></td>
 <td align="center"><sub>Mar/23/2025 20:33</sub></td>
+</tr>
+<tr>
+<td align="center">78</td>
+<td><a href="https://atcoder.jp/contests/abc169/tasks/abc169_d"><b>D</b> - Div Game</a></td>
+<td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc169/abc169D%20Div%20Game.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
+<td><code>AtCoder</code> <code>*400</code></td>
+<td align="center"><sub>Mar/22/2025 05:03</sub></td>
 </tr>
 </tbody>
 </table>
