@@ -6,7 +6,7 @@
 
 **Username:** [MishkatIT](https://atcoder.jp/users/MishkatIT)
 
-### 📊 Total Problems Solved: **70**
+### 📊 Total Problems Solved: **71**
 
 </div>
 
@@ -514,6 +514,13 @@
 <td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc395/abc395B%20Make%20Target.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
 <td><code>AtCoder</code> <code>*200</code></td>
 <td align="center"><sub>Mar/27/2025 21:57</sub></td>
+</tr>
+<tr>
+<td align="center">71</td>
+<td><a href="https://atcoder.jp/contests/abc395/tasks/abc395_a"><b>A</b> - Strictly Increasing?</a></td>
+<td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc395/abc395A%20Strictly%20Increasing_.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
+<td><code>AtCoder</code> <code>*100</code></td>
+<td align="center"><sub>Mar/25/2025 18:09</sub></td>
 </tr>
 </tbody>
 </table>
