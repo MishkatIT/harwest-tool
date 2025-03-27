@@ -6,7 +6,7 @@
 
 **Username:** [MishkatIT](https://atcoder.jp/users/MishkatIT)
 
-### 📊 Total Problems Solved: **67**
+### 📊 Total Problems Solved: **68**
 
 </div>
 
@@ -493,6 +493,13 @@
 <td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc359/abc359B%20Couples.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
 <td><code>AtCoder</code> <code>*150</code></td>
 <td align="center"><sub>Apr/06/2025 15:42</sub></td>
+</tr>
+<tr>
+<td align="center">68</td>
+<td><a href="https://atcoder.jp/contests/abc294/tasks/abc294_a"><b>A</b> - Filter</a></td>
+<td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc294/abc294A%20Filter.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
+<td><code>AtCoder</code> <code>*100</code></td>
+<td align="center"><sub>Mar/27/2025 22:56</sub></td>
 </tr>
 </tbody>
 </table>
