@@ -6,7 +6,7 @@
 
 **Username:** [MishkatIT](https://atcoder.jp/users/MishkatIT)
 
-### 📊 Total Problems Solved: **56**
+### 📊 Total Problems Solved: **57**
 
 </div>
 
@@ -416,6 +416,13 @@
 <td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc307/abc307B%20racecar.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
 <td><code>AtCoder</code> <code>*200</code></td>
 <td align="center"><sub>Apr/13/2025 21:29</sub></td>
+</tr>
+<tr>
+<td align="center">57</td>
+<td><a href="https://atcoder.jp/contests/abc175/tasks/abc175_a"><b>A</b> - Rainy Season</a></td>
+<td align="center"><a href="https://github.com/MishkatIT/harwest-tool/blob/main/submissions/atcoder/abc175/abc175A%20Rainy%20Season.cpp" title="C++ 20 (gcc 12.2)"><code>C++ 20 (gcc 12.2)</code></a></td>
+<td><code>AtCoder</code> <code>*100</code></td>
+<td align="center"><sub>Apr/13/2025 20:56</sub></td>
 </tr>
 </tbody>
 </table>
