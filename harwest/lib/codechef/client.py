@@ -13,6 +13,7 @@ class CodechefClient:
     SUBMISSIONS_URL = "https://www.codechef.com/{contest_id}/status/{problem_id},{handle_name}?status=15"
     CONTEST_URL = "https://www.codechef.com/api/contests/{contest_id}/problems/{problem_id}"
     PAGE_SIZE_LIMIT = 12
+    ACCEPTED_STATUS = "AC"
 
     def __init__(self, user_name):
         self.user = user_name
@@ -85,7 +86,7 @@ class CodechefClient:
 
             contest_id = row['contest_id']
             status = row['result']
-            if status != "AC": continue  # Only process accepted solutions
+            if status != CodechefClient.ACCEPTED_STATUS: continue  # Only process accepted solutions
 
             submission_id = int(row['id'])
             problem_id = row['problem_id']
