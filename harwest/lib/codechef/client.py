@@ -44,7 +44,7 @@ class CodechefClient:
     def get_submission_id(self, contest_id, problem_id):
         submissions_url = CodechefClient.SUBMISSIONS_URL.format(
             contest_id=contest_id, problem_id=problem_id, handle_name=self.user) \
-            .replace('m//', 'm/')
+            .replace('m//', 'm/')  # Fix potential double slash in URL format
         sub_soup = self.__get_content_soup(submissions_url)
         return int(sub_soup.findAll('td', attrs={"width": "60"})[0].text)
 
@@ -86,7 +86,8 @@ class CodechefClient:
 
             contest_id = row['contest_id']
             status = row['result']
-            if status != CodechefClient.ACCEPTED_STATUS: continue  # Only process accepted solutions
+            if status != CodechefClient.ACCEPTED_STATUS:  # Only process accepted solutions
+                continue
 
             submission_id = int(row['id'])
             problem_id = row['problem_id']

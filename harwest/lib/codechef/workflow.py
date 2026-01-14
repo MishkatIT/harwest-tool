@@ -8,5 +8,6 @@ class CodechefWorkflow(AbstractWorkflow):
 
   def enrich_submission(self, submission):
     problem_name = self.client.get_problem_name(submission['problem_url'])
+    # For CodeChef, contest_id serves as the problem index
     submission['problem_index'] = submission['contest_id']
     submission['problem_name'] = problem_name
